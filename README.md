@@ -9,7 +9,7 @@ The Artado Dictionary Widget Extension is a simple and handy JavaScript-based ex
 
 ## Usage
 
-You can add it to Artado Search from Workshop page.
+You can add it to Artado Search from [Workshop page](https://www.artadosearch.com/Workshop/64).
 
 ## License
 
